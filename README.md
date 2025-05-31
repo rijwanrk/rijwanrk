@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rijwankhan.rkn@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1gViZwGbR9X__BBY7LBexIj64oD7e18Qa?usp=drive_link](https://drive.google.com/drive/folders/1gViZwGbR9X__BBY7LBexIj64oD7e18Qa?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1V_hgCDgiVu1nn9WyToFYodEQ4G88tJ2l/view?usp=drive_link](https://drive.google.com/file/d/1V_hgCDgiVu1nn9WyToFYodEQ4G88tJ2l/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
