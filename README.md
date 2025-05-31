@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rijwanrk&label=Profile%20views&color=0e75b6&style=flat" alt="rijwanrk" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://rijwanrk.github.io/portfolio-project/](https://rijwanrk.github.io/portfolio-project/)
+- 👨‍💻 All of my projects are available at [https://portfolio-nine-amber-98.vercel.app/](https://portfolio-nine-amber-98.vercel.app/)
 
 - 📫 How to reach me **rijwankhan.rkn@gmail.com**
 
